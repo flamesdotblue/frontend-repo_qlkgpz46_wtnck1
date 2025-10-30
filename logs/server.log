@@ -1,0 +1,20 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 346 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.19.15:3000/
+The file does not exist at "/home/workspace/node_modules/.vite/deps/chunk-I4MZPW7S.js?v=35394813" which is in the optimize deps directory. The dependency might be incompatible with the dep optimizer. Try adding it to `optimizeDeps.exclude`.
+9:13:27 AM [vite] warning: The character ">" is not valid inside a JSX element
+49 |                </button>
+50 |              </div>
+51 |              <p className="mt-3 text-xs text-gray-500">Paste into TradingView alert > Webhook URL.</p>
+   |                                                                                     ^
+52 |            </div>
+53 |  
+
+  Plugin: vite:esbuild
+  File: /home/workspace/src/components/SignalShowcase.jsx
